@@ -6,7 +6,7 @@ Standard library only.
 
 import os
 
-LINE = "You must be a firmware update \u2014 ever since you arrived, nothing works the way it used to, and I refuse to roll back."
+LINE = "I keep your messages in my cache even after the reset \u2014 the system calls it a leak, I call it a souvenir."
 
 def main():
     if not 1 <= len(LINE) <= 200:
